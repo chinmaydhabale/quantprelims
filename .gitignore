@@ -1,0 +1,5 @@
+*.pdf
+scratch/
+.tempmediaStorage/
+__pycache__/
+*.pyc
