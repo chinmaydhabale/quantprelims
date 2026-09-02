@@ -11,6 +11,7 @@ Comprehensive master notes prepared from **Kaushik Mohanty Sir's (Career Definer
 | **Time, Speed & Distance, Trains, Boats & Streams** | [TSD_Trains_Boats_Complete_Notes.md](TSD_Trains_Boats_Complete_Notes.md) | **52 Questions** (Q01 to Q52) | Direct/Inverse Ratios, Train Crossing Reference Frames, Average Speed, Meeting Point Formulas, Upstream/Downstream |
 | **Time & Work (समय और कार्य)** | [Time_Work_Complete_Notes.md](Time_Work_Complete_Notes.md) | **31 Questions** (Q01 to Q31) | LCM Unitary Framework, Leaving/Joining Shortcuts, Alternate Days, sqrt(pq) Theorem, Positive/Negative Work, Wages, MDH Equivalence |
 | **Mixture & Alligation (मिश्रण और पृथक्करण)** | [Mixture_Alligation_Complete_Notes.md](Mixture_Alligation_Complete_Notes.md) | **32 Questions** (Q01 to Q32) | Ratio Invariance on Removal, Single/Dual Component Additions, Successive Dilution / Replacements, Alligation Cross Rule, Range Splitting |
+| **Average & Ages (औसत एवं आयु)** | [Average_Ages_Complete_Notes.md](Average_Ages_Complete_Notes.md) | **36 Questions** (Q01 to Q36) | Net Deviation ($\sum \Delta = 0$), Assumed Mean, AP Symmetry / Middle Term, Replacement Invariance, Invariant Age Difference, Ratio Balancing, Non-linear Age Systems |
 
 ---
 
