@@ -13,6 +13,7 @@ Comprehensive master notes prepared from **Kaushik Mohanty Sir's (Career Definer
 | **Mixture & Alligation (मिश्रण और पृथक्करण)** | [Mixture_Alligation_Complete_Notes.md](Mixture_Alligation_Complete_Notes.md) | **32 Questions** (Q01 to Q32) | Ratio Invariance on Removal, Single/Dual Component Additions, Successive Dilution / Replacements, Alligation Cross Rule, Range Splitting |
 | **Average & Ages (औसत एवं आयु)** | [Average_Ages_Complete_Notes.md](Average_Ages_Complete_Notes.md) | **36 Questions** (Q01 to Q36) | Net Deviation ($\sum \Delta = 0$), Assumed Mean, AP Symmetry / Middle Term, Replacement Invariance, Invariant Age Difference, Ratio Balancing, Non-linear Age Systems |
 | **Profit, Loss & Discount (लाभ, हानि एवं बट्टा)** | [Profit_Loss_Discount_Complete_Notes.md](Profit_Loss_Discount_Complete_Notes.md) | **40 Questions** (Q01 to Q40) | Golden CP-MP Ratio, Chain Multipliers, Same CP/SP Dynamics ($x^2/100$), Alligation on Profit %, Free Article Scheme Balance, Dishonest Dealer & Faulty Weights |
+| **Data Interpretation (आंकड़ों की व्याख्या)** | [Data_Interpretation_Complete_Notes.md](Data_Interpretation_Complete_Notes.md) | **125 Questions + 1 Bonus (25 Complete Sets)** | Percentage-Fraction Matrix, Direct Degree-to-Ratio Shortcuts, Table DI, Missing DI, Bar Graph, Line Graph, Single & Double Pie Charts, Radar Charts, Caselet DI |
 
 ---
 
