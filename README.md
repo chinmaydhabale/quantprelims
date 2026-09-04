@@ -14,6 +14,7 @@ Comprehensive master notes prepared from **Kaushik Mohanty Sir's (Career Definer
 | **Average & Ages (औसत एवं आयु)** | [Average_Ages_Complete_Notes.md](Average_Ages_Complete_Notes.md) | **36 Questions** (Q01 to Q36) | Net Deviation ($\sum \Delta = 0$), Assumed Mean, AP Symmetry / Middle Term, Replacement Invariance, Invariant Age Difference, Ratio Balancing, Non-linear Age Systems |
 | **Profit, Loss & Discount (लाभ, हानि एवं बट्टा)** | [Profit_Loss_Discount_Complete_Notes.md](Profit_Loss_Discount_Complete_Notes.md) | **40 Questions** (Q01 to Q40) | Golden CP-MP Ratio, Chain Multipliers, Same CP/SP Dynamics ($x^2/100$), Alligation on Profit %, Free Article Scheme Balance, Dishonest Dealer & Faulty Weights |
 | **Data Interpretation (आंकड़ों की व्याख्या)** | [Data_Interpretation_Complete_Notes.md](Data_Interpretation_Complete_Notes.md) | **125 Questions + 1 Bonus (25 Complete Sets)** | Percentage-Fraction Matrix, Direct Degree-to-Ratio Shortcuts, Table DI, Missing DI, Bar Graph, Line Graph, Single & Double Pie Charts, Radar Charts, Caselet DI |
+| **Simple & Compound Interest (साधारण एवं चक्रवृद्धि ब्याज)** | [Simple_Compound_Interest_Complete_Notes.md](Simple_Compound_Interest_Complete_Notes.md) | **36 Questions** (Q01 to Q36) | Effective Rate %, Tree Method ($a^2, a^3$), Consecutive Year Difference ($(a+1)$ units), 2-Yr ($D_2$) & 3-Yr ($D_3$) Differences, Difference Ratio $\frac{D_3}{D_2}$, Equal-Interval Multiplier Rule, Mixed Compounding Cycles |
 
 ---
 
