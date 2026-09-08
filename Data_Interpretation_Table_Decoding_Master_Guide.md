@@ -73,10 +73,12 @@
    $$\text{Total} = \frac{\text{Actual Value of A}}{100\% - x\%}$$
 2. **The Sum & Difference Shortcut (योग एवं अंतर शॉर्टकट):**  
    जब भी दो चरों का योग ($S$) और अंतर ($D$) दिया हो:  
-   $$\text{बड़ा मान (Larger)} = \frac{S + D}{2}, \qquad \text{छोटा मान (Smaller)} = \frac{S - D}{2}$$
+   $$\text{Larger} = \frac{S + D}{2}, \qquad \text{Smaller} = \frac{S - D}{2}$$
+   *(बड़ा मान $= \frac{S+D}{2}$, छोटा मान $= \frac{S-D}{2}$)*
 3. **The Unitary Ratio Allocation (अनुपात इकाई विधि):**  
    यदि कुल राशि $T$ को $a : b$ में विभाजित करना है, तो कुल इकाइयां $= (a + b)$।  
-   $$1\text{ इकाई (Unit)} = \frac{T}{a + b}, \quad A = a \times 1\text{u}, \quad B = b \times 1\text{u}$$
+   $$1\text{ Unit} = \frac{T}{a + b}, \quad A = a \times 1\text{u}, \quad B = b \times 1\text{u}$$
+   *(1 इकाई $= \frac{T}{a+b}$)*
 4. **The Cumulative Difference Rule (संचयी अंतर नियम):**  
    जब डेटा "वर्ष X तक" (Cumulative) दिया हो:  
    $$\text{Current Year Value} = \text{Cumulative Value of Current Year} - \text{Cumulative Value of Previous Year}$$
@@ -141,8 +143,8 @@ $$\text{Total Candidates} = \text{Male Candidates} + \text{Female Candidates}$$
 1. Let total candidates on any day be $T$.
 2. Given: Number of males $= M$, Percentage of females $= f\%$.
 3. Since candidates consist only of males and females:
-   $$M + \left(\frac{f}{100} \times T\right) = T$$
-   $$M = T \left(1 - \frac{f}{100}\right) = T \left(\frac{100 - f}{100}\right)$$
+  - $M + \left(\frac{f}{100} \times T\right) = T$
+  - $M = T \left(1 - \frac{f}{100}\right) = T \left(\frac{100 - f}{100}\right)$
 4. Solving for $T$:
    $$T = \frac{M \times 100}{100 - f}$$
 5. Calculating row-by-row:
@@ -347,13 +349,13 @@ The table shows the total population (Men + Women) of five cities and the percen
 
 #### 📘 Method 2: Standard Algebraic & Systematic Method
 1. System of two linear equations:
-   $$M + W = T \quad \text{--- (1)}$$
-   $$|M - W| = D \quad \text{--- (2)}$$
+   - Eq (1): $M + W = T$
+   - Eq (2): $|M - W| = D$
 2. In City A ($W > M$):
-   $$W + M = 450$$
-   $$W - M = 100$$
-   Adding both equations: $2W = 550 \implies W = 275$.  
-   Subtracting equations: $2M = 350 \implies M = 175$.
+   - $W + M = 450$
+   - $W - M = 100$
+   - Adding both equations: $2W = 550 \implies W = 275$.
+   - Subtracting equations: $2M = 350 \implies M = 175$.
 
 #### 💡 Core Takeaway:
 $$\mathbf{\text{Larger} = \frac{\text{Total} + \text{Diff}}{2}, \qquad \text{Smaller} = \frac{\text{Total} - \text{Diff}}{2}}$$
@@ -422,8 +424,8 @@ $$\text{Total Laptops} = \text{Gaming Laptops (G)} + \text{Business Laptops (B)}
 3. Total at S $= 0.24T$. Since $G_S = 1.40 B_S$ and $G_S + B_S = 0.24T$:
    $$B_S = \frac{0.24T}{2.40} = 0.10T \implies G_S = 1.40 \times 0.10T = 0.14T$$
 4. Setting up condition:
-   $$G_S - B_R = 720 \implies 0.14T - 0.10T = 720$$
-   $$0.04T = 720 \implies T = \frac{720}{0.04} = \frac{72000}{4} = 18,000$$
+   - $G_S - B_R = 720 \implies 0.14T - 0.10T = 720$
+   - $0.04T = 720 \implies T = \frac{720}{0.04} = \frac{72000}{4} = 18,000$
 
 #### 💡 Core Takeaway:
 $$\mathbf{B = \frac{\text{Outlet Total}}{1 + (1 + r\%)}, \qquad \text{Setup Single Variable } x \text{ to Link Outlets}}$$
@@ -436,8 +438,8 @@ $$\mathbf{B = \frac{\text{Outlet Total}}{1 + (1 + r\%)}, \qquad \text{Setup Sing
 The table shows the cumulative number of electric scooters produced by an automobile company up to five consecutive years (2021 to 2025). It also shows the ratio of Two-Wheeler Scooters to Three-Wheeler Scooters produced in each specific year.  
 *तालिका एक ऑटोमोबाइल कंपनी द्वारा पांच लगातार वर्षों (2021 से 2025) तक उत्पादित इलेक्ट्रिक स्कूटरों की संचयी (Cumulative) संख्या और प्रत्येक विशिष्ट वर्ष में उत्पादित टू-व्हीलर और थ्री-व्हीलर स्कूटरों का अनुपात दर्शाती है।*
 
-$$\text{Yearly Production} = \text{Cumulative of Current Year} - \text{Cumulative of Previous Year}$$
-$$\text{Total in a Year} = \text{Two-Wheelers (2W)} + \text{Three-Wheelers (3W)}$$
+- **Yearly Production:** $\text{Yearly Production} = \text{Cumulative of Current Year} - \text{Cumulative of Previous Year}$
+- **Total in a Year:** $\text{Total in a Year} = \text{Two-Wheelers (2W)} + \text{Three-Wheelers (3W)}$
 
 ---
 
@@ -741,8 +743,8 @@ $$\mathbf{C = T - P, \qquad Sup = T - Op \quad (\text{Two parallel balance track
 A manufacturing company supplies LED bulbs to five stores—A, B, C, D and E. The table shows the total number of bulbs manufactured, the percentage of defective bulbs, and the selling price of each working (non-defective) bulb. Only non-defective bulbs are sold in the market.  
 *एक विनिर्माण कंपनी पांच स्टोरों A, B, C, D और E को LED बल्बों की आपूर्ति करती है। तालिका निर्मित बल्बों की कुल संख्या, दोषपूर्ण बल्बों का प्रतिशत और प्रत्येक चालू (गैर-दोषपूर्ण) बल्ब का विक्रय मूल्य दर्शाती है। केवल गैर-दोषपूर्ण बल्ब ही बेचे जाते हैं।*
 
-$$\text{Working Bulbs} = \text{Total Bulbs} \times (100\% - \text{Defective}\%)$$
-$$\text{Total Revenue} = \text{Working Bulbs} \times \text{Selling Price per Unit (SP)}$$
+- **Working Bulbs:** $\text{Working Bulbs} = \text{Total Bulbs} \times (100\% - \text{Defective}\%)$
+- **Total Revenue:** $\text{Total Revenue} = \text{Working Bulbs} \times \text{Selling Price per Unit (SP)}$
 
 ---
 
@@ -847,9 +849,9 @@ The table shows student distribution in three classes—VI, VII and VIII—divid
 
 #### 📘 Method 2: Standard Algebraic & Systematic Method
 For any class with boys ratio $a:b$ and girls ratio $c:d$:
-$$\text{Sec A} = ax + cy, \qquad \text{Sec B} = bx + dy$$
-$$\text{Condition 1: } (b - a)x + (d - c)y = \Delta_{\text{Sec}}$$
-$$\text{Condition 2: } (c + d)y - (a + b)x = \Delta_{\text{Gender}}$$
+- **Section Totals:** $\text{Sec A} = ax + cy, \qquad \text{Sec B} = bx + dy$
+- **Condition 1:** $(b - a)x + (d - c)y = \Delta_{\text{Sec}}$
+- **Condition 2:** $(c + d)y - (a + b)x = \Delta_{\text{Gender}}$
 Solve this $2 \times 2$ linear system via Cramer's rule or substitution.
 
 #### 💡 Core Takeaway:
@@ -866,8 +868,8 @@ The table shows the number of orders received, percentage of orders not yet pack
 *तालिका पांच कंपनियों द्वारा प्राप्त आदेशों, अभी तक पैक नहीं किए गए आदेशों के प्रतिशत और अभी तक नहीं भेजे गए आदेशों के प्रतिशत को दर्शाती है।*  
 **Crucial Note:** Only orders that are packed can be shipped (i.e. `% not yet shipped` is calculated strictly on **Packed Orders**, not on Total Orders Received).
 
-$$\text{Packed Orders} = \text{Total Orders} \times (100\% - \% \text{ Not Yet Packed})$$
-$$\text{Shipped Orders} = \text{Packed Orders} \times (100\% - \% \text{ Not Yet Shipped})$$
+- **Packed Orders:** $\text{Packed Orders} = \text{Total Orders} \times (100\% - \% \text{ Not Yet Packed})$
+- **Shipped Orders:** $\text{Shipped Orders} = \text{Packed Orders} \times (100\% - \% \text{ Not Yet Shipped})$
 
 ---
 
@@ -908,8 +910,8 @@ $$\text{Shipped Orders} = \text{Packed Orders} \times (100\% - \% \text{ Not Yet
 
 #### 📘 Method 2: Standard Algebraic & Systematic Method
 Let $R =$ Total Orders Received, $u = \% \text{ Unpacked}$, $s = \% \text{ Unshipped of packed}$.
-$$P = R \times \left(1 - \frac{u}{100}\right)$$
-$$S = P \times \left(1 - \frac{s}{100}\right) = R \times \left(1 - \frac{u}{100}\right) \times \left(1 - \frac{s}{100}\right)$$
+- **Packed Orders:** $P = R \times \left(1 - \frac{u}{100}\right)$
+- **Shipped Orders:** $S = P \times \left(1 - \frac{s}{100}\right) = R \times \left(1 - \frac{u}{100}\right) \times \left(1 - \frac{s}{100}\right)$
 
 #### 💡 Core Takeaway:
 $$\mathbf{\text{Packed} = \text{Received} \times (100\% - \text{Unpacked}\%); \quad \text{Shipped} = \text{Packed} \times (100\% - \text{Unshipped}\%)}$$
@@ -1013,8 +1015,7 @@ The table shows the number of male employees working in private- and public-sect
 2. **Condition 2 (Private Q & R vs Public P & S):**
    - Private Q & R: $(12x - y) + (9x + 2y) = 21x + y$.
    - Public P & S: $(2x + 2y) + 24$.
-   $$(21x + y) - (2x + 2y + 24) = 86$$
-   $$19x - y = 110 \quad \text{--- (Eq 2)}$$
+   - $(21x + y) - (2x + 2y + 24) = 86 \implies 19x - y = 110 \quad \text{--- (Eq 2)}$
 3. **Lightning Elimination (गुणा कर सीधे जोड़ें):**
    - Eq 2 को 2 से गुणा करें: $38x - 2y = 220$।
    - Eq 1 में जोड़ें: $(5x + 2y) + (38x - 2y) = 38 + 220 \implies 43x = 258 \implies \mathbf{x = 6}$।
@@ -1025,12 +1026,13 @@ The table shows the number of male employees working in private- and public-sect
 
 #### 📘 Method 2: Standard Algebraic & Systematic Method
 System of two linear equations in two unknowns $x$ and $y$:
-$$5x + 2y = 38$$
-$$19x - y = 110$$
+- Eq (1): $5x + 2y = 38$
+- Eq (2): $19x - y = 110$
+
 Using substitution method:
-$$y = 19x - 110$$
-$$5x + 2(19x - 110) = 38 \implies 5x + 38x - 220 = 38$$
-$$43x = 258 \implies x = 6, \quad y = 19(6) - 110 = 114 - 110 = 4$$
+- $y = 19x - 110$
+- $5x + 2(19x - 110) = 38 \implies 5x + 38x - 220 = 38$
+- $43x = 258 \implies x = 6, \quad y = 19(6) - 110 = 114 - 110 = 4$
 
 #### 💡 Core Takeaway:
 $$\mathbf{\text{Always simplify linear combinations of rows before substituting single variables!}}$$
@@ -1047,9 +1049,9 @@ $$\mathbf{\text{Always simplify linear combinations of rows before substituting 
 There are five players (A, B, C, D and E) who played a six-match series where they scored a certain number of runs at a certain strike rate. The table contains several missing values that must be calculated using the cricket statistical formulas:  
 *पांच बल्लेबाजों A, B, C, D और E ने 6 मैचों की एक श्रृंखला खेली। तालिका में कुछ डेटा दिया गया है और कुछ डेटा लुप्त है जिसे क्रिकेट के सांख्यिकीय सूत्रों का उपयोग करके हल करना है:*
 
-$$\text{Strike Rate (SR)} = \left(\frac{\text{Total Runs Scored}}{\text{Total Balls Faced}}\right) \times 100$$
-$$\text{Average Runs} = \frac{\text{Total Runs Scored}}{\text{Matches Played (6)}} \implies \text{Total Runs} = \text{Average Runs} \times 6$$
-$$\text{Balls Faced} = \frac{\text{Total Runs}}{\text{Strike Rate}} \times 100$$
+- **Strike Rate (SR):** $\text{Strike Rate (SR)} = \left(\frac{\text{Total Runs Scored}}{\text{Total Balls Faced}}\right) \times 100$
+- **Average Runs:** $\text{Average Runs} = \frac{\text{Total Runs Scored}}{\text{Matches Played (6)}} \implies \text{Total Runs} = \text{Average Runs} \times 6$
+- **Balls Faced:** $\text{Balls Faced} = \frac{\text{Total Runs}}{\text{Strike Rate}} \times 100$
 
 ---
 
@@ -1305,16 +1307,15 @@ The pie chart shows the percentage distribution of appointments booked in five c
 
 #### 🎯 Method 1: Kaushik Sir's Speed Decoding Method
 1. **Sum of Angles / Percentages $= 100\%$:**
-   $$25 + y + 0.5y + (y - 5) + (x + 5) = 100$$
-   $$x + 2.5y + 25 = 100 \implies x + 2.5y = 75 \implies 4x + 10y = 300 \quad \text{--- (Eq 1)}$$
+   - $25 + y + 0.5y + (y - 5) + (x + 5) = 100$
+   - $x + 2.5y + 25 = 100 \implies x + 2.5y = 75 \implies 4x + 10y = 300 \quad \text{--- (Eq 1)}$
 2. **Note Linking via Ratio:**
    - City B $= y\% \implies T \times y\% = 240$.
    - Difference $(E - A) = (x + 5)\% - 25\% = (x - 20)\% \implies T \times (x - 20)\% = 60$.
-   - Divide both:
-     $$\frac{y}{x - 20} = \frac{240}{60} = 4 \implies y = 4x - 80 \implies 4x - y = 80 \quad \text{--- (Eq 2)}$$
+   - Divide both: $\frac{y}{x - 20} = \frac{240}{60} = 4 \implies y = 4x - 80 \implies 4x - y = 80 \quad \text{--- (Eq 2)}$
 3. **Subtract Eq 2 from Eq 1:**
-   $$(4x + 10y) - (4x - y) = 300 - 80 \implies 11y = 220 \implies \mathbf{y = 20}$$
-   $$4x = 80 + 20 = 100 \implies \mathbf{x = 25}$$
+   - $(4x + 10y) - (4x - y) = 300 - 80 \implies 11y = 220 \implies \mathbf{y = 20}$
+   - $4x = 80 + 20 = 100 \implies \mathbf{x = 25}$
 4. **Find Total Appointments ($T$):**
    $$y\% = 20\% = 240 \implies T = \frac{240}{0.20} = \mathbf{1200}$$
 
@@ -1369,13 +1370,13 @@ $$\text{Total Employees } (E) = \text{Managers } (M) + \text{Workers } (W)$$
 
 #### 🎯 Method 1: Kaushik Sir's Speed Decoding Method
 1. **Ratio Linking via Workers Equality:**
-   $$W_A = W_B \implies 20\%E - 20\%M = 25\%E - 40\%M$$
-   $$40\%M - 20\%M = 25\%E - 20\%E$$
-   $$20\%M = 5\%E \implies E = 4M$$
+   - $W_A = W_B \implies 20\%E - 20\%M = 25\%E - 40\%M$
+   - $40\%M - 20\%M = 25\%E - 20\%E$
+   - $20\%M = 5\%E \implies E = 4M$
 2. **Use Total Workers Condition:**
-   $$W_{\text{total}} = E - M = 450$$
-   $$4M - M = 450 \implies 3M = 450 \implies \mathbf{M = 150}$$
-   $$\mathbf{E = 4 \times 150 = 600}$$
+   - $W_{\text{total}} = E - M = 450$
+   - $4M - M = 450 \implies 3M = 450 \implies \mathbf{M = 150}$
+   - $\mathbf{E = 4 \times 150 = 600}$
 3. **Populate in Seconds:**  
    $E = 600$ का $20\%, 25\%, 30\%, 25\% \implies 120, 150, 180, 150$।  
    $M = 150$ का $20\%, 40\%, 30\%, 10\% \implies 30, 60, 45, 15$।
@@ -1404,7 +1405,7 @@ $$\mathbf{W_A = W_B \implies \text{Equate percentage difference equations to fin
 #### 📌 Problem Context & Given Information (निर्देश एवं दिया गया डेटा)
 The line graph shows the total number of visitors (male + female) visiting four parks: A, B, C and D. The fraction of male visitors among total visitors in each park is given.  
 *लाइन ग्राफ़ चार पार्कों A, B, C और D में आने वाले कुल आगंतुकों (पुरुष + महिला) को दर्शाता है। प्रत्येक पार्क में कुल आगंतुकों में से पुरुष आगंतुकों का भिन्न दिया गया है।*  
-**Grid Scale:** मेजर टिक $= 80$, जिसे 10 अंतरालों में बांटा गया है $\implies 1 \text{ डिवीजन} = 8 \text{ आगंतुक}$।
+**Grid Scale:** मेजर टिक $= 80$, जिसे 10 अंतरालों में बांटा गया है $\implies 1 \text{ division} = 8 \text{ visitors}$ (1 डिवीजन = 8 आगंतुक)।
 
 ---
 
@@ -1516,9 +1517,9 @@ $$\mathbf{\text{Convert line graph shifts to integer ratios first, then divide t
 The bar graph shows the number of Plain Books and Lined Books available in three stores: A, B and C. The table shows the percentage of total books sold by each store.  
 *बार ग्राफ़ तीन स्टोरों A, B और C में उपलब्ध प्लेन किताबों और लाइन्ड किताबों की संख्या दर्शाता है। तालिका प्रत्येक स्टोर द्वारा बेची गई कुल किताबों का प्रतिशत दर्शाती है।*
 
-$$\text{Total Available Books} = \text{Plain Books} + \text{Lined Books}$$
-$$\text{Total Sold} = \text{Total Available} \times \% \text{ Sold}$$
-$$\text{Total Unsold} = \text{Total Available} - \text{Total Sold}$$
+- **Total Available Books:** $\text{Total Available Books} = \text{Plain Books} + \text{Lined Books}$
+- **Total Sold:** $\text{Total Sold} = \text{Total Available} \times \% \text{ Sold}$
+- **Total Unsold:** $\text{Total Unsold} = \text{Total Available} - \text{Total Sold}$
 
 ---
 
@@ -1561,7 +1562,7 @@ $$\mathbf{\text{Sum categories first to establish base, then compute Sold and Un
 
 ### 📋 SET 25: Degree Pie Chart ($360^\circ$) + Ratios
 **DI Archetype:** Degree Pie Chart with Male:Female Ratio (डिग्री पाई चार्ट व अनुपात तालिका)  
-**Core Logic:** $360^\circ = \text{कुल मान}$ से $1^\circ$ का मान निकालना और अनुपातों में विभाजित करना।
+**Core Logic:** $360^\circ = \text{Total}$ ($360^\circ =$ कुल मान) से $1^\circ$ का मान निकालना और अनुपातों में विभाजित करना।
 
 #### 📌 Problem Context & Given Information (निर्देश एवं दिया गया डेटा)
 The pie chart represents the degree-wise distribution of 3,600 scientists working in four countries: P, Q, R and S. The table provides the ratio of Male to Female scientists in each country.  
@@ -1606,7 +1607,7 @@ $$\text{Total Degrees} = 360^\circ = 3,600 \implies 1^\circ = 10 \text{ scientis
 2. **Solve P and R Angles:**
    - $S + Q = 100.8 + 79.2 = 180^\circ$ (आधा वृत्त!)
    - शेष आधा वृत्त $= 180^\circ$, जिसे $3 : 7$ में बांटना है (कुल 10 हिस्से):  
-     $$1\text{ हिस्सा} = 18^\circ \implies P = 3 \times 18 = 54^\circ = 540, \quad R = 7 \times 18 = 126^\circ = 1260$$
+     - $1\text{ part} = 18^\circ$ (1 हिस्सा $= 18^\circ$) $\implies P = 3 \times 18 = 54^\circ = 540, \quad R = 7 \times 18 = 126^\circ = 1260$
 3. **Ratio Units Allocation:**
    - P ($540 / 15 = 36$): $M = 396, F = 144$
    - Q ($792 / 12 = 66$): $M = 462, F = 330$
@@ -1631,9 +1632,9 @@ $$\mathbf{360^\circ = \text{Total} \implies 1^\circ = \frac{\text{Total}}{360}; 
 
 1. **Never Calculate in Isolation:** Always write down or visualize the complementary percentage ($100\% - x\%$) before touching the calculator.
 2. **Convert Recurring Percentages into Fractions Instantly:**  
-   $12.5\% = rac{1}{8}, \ 14.28\% = rac{1}{7}, \ 16.67\% = rac{1}{6}, \ 37.5\% = rac{3}{8}, \ 62.5\% = rac{5}{8}$.
+   $12.5\% = \frac{1}{8}, \ 14.28\% = \frac{1}{7}, \ 16.67\% = \frac{1}{6}, \ 37.5\% = \frac{3}{8}, \ 62.5\% = \frac{5}{8}$.
 3. **The Sum & Difference Power Rule:**  
-   Whenever $A + B = S$ and $A - B = D$, immediately find $rac{S+D}{2}$ and $rac{S-D}{2}$.
+   Whenever $A + B = S$ and $A - B = D$, immediately find $\frac{S+D}{2}$ and $\frac{S-D}{2}$.
 4. **Identify the Base in Funnel / Multi-Stage DIs:**  
    Does the percentage apply to the original initial total or to the remaining / intermediate stage? (e.g. Unshipped is of Packed, not of Total!).
 5. **Cumulative Tables Require Upward Cascading Subtraction:**  
