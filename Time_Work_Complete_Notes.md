@@ -53,7 +53,8 @@
    - [Q29: Simultaneous Linear Equations of Multi-Category Manpower Groups](#question-29)
    - [Q30: Variable Group Size $(x+5)$ and Fractional Work Splits (75% / 25%)](#question-30)
    - [Q31: Men, Women & Children Equivalence ($2M = 3W = 4C$)](#question-31)
-3. [📊 Quick Formula & Speed-Hacks Cheat-Sheet](#-quick-formula--speed-hacks-cheat-sheet)
+3. [📋 Master Answer Key & Quick Reference Table (Q01 – Q31)](#-master-answer-key--quick-reference-table)
+4. [📊 Quick Formula & Speed-Hacks Cheat-Sheet](#-quick-formula--speed-hacks-cheat-sheet)
 
 ---
 
@@ -185,6 +186,44 @@ $$x M = y W = z C \implies M : W : C = \frac{1}{x} : \frac{1}{y} : \frac{1}{z} =
 ---
 
 # 🎯 Complete Question Solutions (Q1 to Q31)
+
+---
+
+## <a id="-master-answer-key--quick-reference-table"></a>📋 Master Answer Key & Quick Reference Table (Q01 – Q31)
+
+| Q# | Slide | Topic / Problem Type | Correct Answer | Key Formula / Kaushik Sir's Exam Method |
+| :---: | :---: | :--- | :---: | :--- |
+| [**Q01**](#question-01) | Slide 13 | Work Fraction & Time Ratios | **D) 35 days** | $T_{\text{Ravi}} = 6 \times \frac{7}{3} = 14 \text{ d}$; $\text{TW} = \text{LCM}(14, 21) = 42$; Mohan $= 1 \text{ u/d} \implies T_S = 42 \times \frac{5}{6} = 35 \text{ d}$ |
+| [**Q02**](#question-02) | Slide 14 | Standard Leaving Case | **C) 10 days** | $\text{TW} = 45$; $E_R = 3, E_S = 2$; Work in $5 \text{ d} = 25$; Remaining $= 20 \implies T_{\text{Sohan}} = \frac{20}{2} = 10 \text{ d}$ |
+| [**Q03**](#question-03) | Slide 15 | Left Before Completion | **C) 19 days** | Reverse / Add-Back Method: $\text{TW} = 120$; Add Suresh $3 \text{ d} (+9) \implies \text{Total Time} = \frac{129}{5+3} = 19 \text{ d}$ |
+| [**Q04**](#question-04) | Slide 16 | Multi-Person Sequential Work | **D) 30 days** | $\text{TW} = 60$; $E_R=5, E_M=4, E_S=3$; $(5 \times 3) + (4 \times 5) + 3t = 60 \implies t = 8.33 \implies \text{Total} = 30 \text{ d}$ |
+| [**Q05**](#question-05) | Slide 17 | Variable Time ($x$-Based) | **C) 16** | Combined Rate: $\frac{12}{2x} + \frac{24}{4x} = \frac{12}{x} = \frac{3}{4} \implies 3x = 48 \implies x = 16$ |
+| [**Q06**](#question-06) | Slide 18 | Mid-Way Efficiency Boost (+25%) | **C) 6 days** | $\text{TW} = 60$; $E_{\text{all}} = 6$; $E'_R = 3 \times 1.25 = \frac{15}{4}$; $6D + \frac{15}{4}\left(\frac{62}{5} - D\right) = 60 \implies D = 6 \text{ d}$ |
+| [**Q07**](#question-07) | Slide 19 | Variable Combined Days ($3x, 4x$) | **C) 5** | $\text{TW} = 12x$; $E_A = 4, E_B = 3$; Difference: $\frac{12x}{3} - \frac{12x}{4} = x \implies x = 5$ |
+| [**Q08**](#question-08) | Slide 20 | 50% Work Split & Unknown $x$ | **B) 2x days** ($12 \text{ d}$) | $\text{TW} = 36$; $E_{R+M} = 3 \implies x = \frac{18}{3} = 6 \text{ d}$; Suresh $= 36 \text{ d} \implies T_{R+S} = \frac{36}{3} = 12 \text{ d} = 2x$ |
+| [**Q09**](#question-09) | Slide 21 | Efficiency Multiple & Time Gap | **C) 10 days** | $E_R : E_S = 4 : 1 \implies \Delta T = 3 \text{ u} = 75 \implies 1 \text{ u} = 25 \text{ d}$; Half work $= \frac{100/2}{4+1} = 10 \text{ d}$ |
+| [**Q10**](#question-10) | Slide 22 | Equal Time Condition ($E_C = E_A + E_B$) | **C) $1\frac{1}{2}$ days** | $E_M : E_S = 1 : 3 \implies E_R = 2$; $\frac{x}{x+6} = \frac{1}{2} \implies x = 6$; $75\% \text{ work} = \frac{9}{6} = 1.5 \text{ d}$ |
+| [**Q11**](#question-11) | Slide 23 | Percentage Less Efficiency | **C) 6 days** | $E_M = 0.75 E_S \implies T_M = 20 \text{ d} \implies x - 4 = 20 \implies x = 24 \text{ d}$; $95\% \text{ work} = \frac{114}{19} = 6 \text{ d}$ |
+| [**Q12**](#question-12) | Slide 24 | Left After $x$ Days + Residual Fraction | **C) 15 days** | $\text{TW} = 300$; $E_{R+M} = 11$; Work Equivalence: $11x = \frac{3}{4}(300) - 60 = 165 \implies x = 15 \text{ d}$ |
+| [**Q13**](#question-13) | Slide 27 | 3-Person Efficiency Comparison | **D) 24 days** | $E_R : E_S = 3 : 2$; Combined given $\implies \text{TW} = 240$; $T_{R+M+S} = \frac{240}{10} = 24 \text{ d}$ |
+| [**Q14**](#question-14) | Slide 28 | Efficiency Compensations (-20% & +50%) | **C) 40 days** | $E'_A = 0.8 E_A, E'_B = 1.5 E_B$; Equate modified rate work $\implies T_A = 40 \text{ d}$ |
+| [**Q15**](#question-15) | Slide 29 | Partial Work Completion (70%) | **C) 60 days** | $\text{TW} = 120$; Rohan done $40\%$, Mohan $30\% \implies$ Suresh rate $\implies T_S = 60 \text{ d}$ |
+| [**Q16**](#question-16) | Slide 30 | Fractional Combined Days ($11\frac{2}{3} \text{ d}$) | **C) $6\frac{8}{15}$ days** | $\text{TW} = 140$; $E_R=5, E_{R+M}=12 \implies E_M=7$; Suresh $E_S = \frac{66}{7} \implies T_{\text{all}} = \frac{140}{150/7} = \frac{98}{15} \text{ d}$ |
+| [**Q17**](#question-17) | Slide 32 | Elevated Efficiency Applied | **C) 16 days** | Scaled efficiency vs original $\implies$ Ratio of time $\implies$ Original efficiency time $= 16 \text{ d}$ |
+| [**Q18**](#question-18) | Slide 33 | Fractional Time Multiplier ($2\frac{1}{2}\text{x}$) | **D) 9 days** | Establish $E_A : E_B : E_C = 4 : 3 : 2 \implies \text{TW} = 72 \implies T = \frac{72}{8} = 9 \text{ d}$ |
+| [**Q19**](#question-19) | Slide 35 | Alternate Days Work Cycles | **C) $22\frac{1}{2}$ days** | 1 Cycle $= 2 \text{ d} = 8 \text{ u}$; $11$ full cycles ($88 \text{ u}$) in $22 \text{ d}$; Rem $2 \text{ u} \implies 22 + \frac{2}{4} = 22\frac{1}{2} \text{ d}$ |
+| [**Q20**](#question-20) | Slide 37 | Overlapping Paired Days ($R+M, M+S$) | **C) 12 days** | Paired rates isolate individual efficiencies $\implies E_R, E_M, E_S \implies T = 12 \text{ d}$ |
+| [**Q21**](#question-21) | Slide 39 | Special Theorem: $k = \sqrt{p \times q}$ | **D) 24 days** | $k = \sqrt{18 \times 32} = \sqrt{576} = 24 \text{ days}$ (Direct $5$-second exam answer!) |
+| [**Q22**](#question-22) | Slide 41 | Negative Work (Builder vs Demolisher) | **D) 270 days** | $E_{\text{net}} = E_{\text{build}} - E_{\text{demolish}} = 7 - 4 = 3 \text{ u/d} \implies T = \frac{810}{3} = 270 \text{ d}$ |
+| [**Q23**](#question-23) | Slide 43 | Wages — Equal Time Duration | **D) ₹800** | All work together full time $\implies \text{Wages} \propto \text{Efficiency} (4:3:2) \implies \text{Share} = ₹800$ |
+| [**Q24**](#question-24) | Slide 44 | Wages — Unequal Work Done | **C) ₹5,500** | Person left midway $\implies \text{Wages} \propto \text{Actual Work Units Done} \implies \text{Share} = ₹5,500$ |
+| [**Q25**](#question-25) | Slide 45 | Wages Share to Unknown Days | **C) 24 days** | Wage share $=\frac{2}{5} \implies$ Work share $=\frac{2}{5} \implies$ Quadratic setup yields $T = 24 \text{ d}$ |
+| [**Q26**](#question-26) | Slide 47 | Man-Days Equivalence & Group Drop | **B) 40 days** | $60x = 24x + 72(x-8) \implies 5x = 2x + 6(x-8) \implies x = 16 \implies \frac{16 \times 60}{24} = 40 \text{ d}$ |
+| [**Q27**](#question-27) | Slide 48 | Men & Women Equivalence | **B) 9 days** | $4M \times 24 = 6W \times 32 \implies M = 2W$; Phase 1 done $96 \text{ u}$; Rem $96 \implies \text{Total} = 6 + 3 = 9 \text{ d}$ |
+| [**Q28**](#question-28) | Slide 49 | MDH Formula ($M_1 D_1 H_1 / W_1$) | **C) 12 days** | $\frac{M_1 D_1 H_1}{W_1} = \frac{M_2 D_2 H_2}{W_2}$; Double work $\implies \frac{10 \times 8 \times 6}{1} = \frac{16 \times D_2 \times 5}{2} \implies D_2 = 12 \text{ d}$ |
+| [**Q29**](#question-29) | Slide 50 | Simultaneous Equations of Multi-Groups | **C) 60 days** | Equate group works $\implies 20M = 30W \implies M = 1.5W$; Work in $W$-days $\implies T_{16W} = 60 \text{ d}$ |
+| [**Q30**](#question-30) | Slide 51 | MDH Variable $(x+5)$ & 75% Work | **C) 16 women** | $\frac{(x+5) \times 18 \times 8}{3} = \frac{(x-3) \times 24 \times 4}{1} \implies 48(x+5) = 96(x-3) \implies x = 11 \implies x + 5 = 16$ |
+| [**Q31**](#question-31) | Slide 52 | 3-Group Equivalence ($2M=3W=4C$) | **C) 6 days** | $12M = 18W = 36C \implies M:W:C = 3:2:1$; $\text{TW} = 36$; Team $E = 6 \implies T = \frac{36}{6} = 6 \text{ d}$ |
 
 ---
 
@@ -461,21 +500,21 @@ $$\frac{12}{x} = \frac{3}{4} \implies 3x = 48 \implies x = \mathbf{16}$$
 
 ### 📝 Problem Statement (Bilingual)
 **English:**  
-Rohan, Mohit and Suresh alone can complete a piece of work in $20$ days, $30$ days and $60$ days respectively. All three started the work together for $D$ days. Then Mohit and Suresh left the work, and Rohan increased his efficiency by $25\%$ to complete the remaining work. If the total time taken to complete the work was $12.4$ ($\frac{62}{5}$) days, find the value of $D$.
+Rohan, Mohan and Suresh can individually complete a piece of work in $20$ days, $30$ days and $60$ days, respectively. They start working together, but after $D$ days, Mohan and Suresh leave the work. Rohan completes the remaining work with $25\%$ greater efficiency than his original efficiency. If the entire work is completed in $\frac{62}{5}$ days, find the value of $D$.
 
 **हिन्दी:**  
-रोहन, मोहित और सुरेश अकेले एक काम को क्रमशः $20$ दिन, $30$ दिन और $60$ दिन में पूरा कर सकते हैं। तीनों ने मिलकर $D$ दिनों तक काम शुरू किया। फिर मोहित और सुरेश काम छोड़ देते हैं, और रोहन ने शेष काम पूरा करने के लिए अपनी कार्यक्षमता में $25\%$ की वृद्धि की। यदि काम पूरा करने में लगा कुल समय $12.4$ ($62/5$) दिन था, तो $D$ का मान ज्ञात कीजिए।
+रोहन, मोहन और सुरेश अलग-अलग एक काम को क्रमशः $20$ दिन, $30$ दिन और $60$ दिन में पूरा कर सकते हैं। वे एक साथ काम करना शुरू करते हैं, लेकिन $D$ दिनों के बाद, मोहन और सुरेश काम छोड़ देते हैं। रोहन बचा हुआ काम अपनी मूल क्षमता से $25\%$ अधिक क्षमता के साथ पूरा करता है। यदि पूरा काम $\frac{62}{5}$ दिनों में पूरा हो जाता है, तो $D$ का मान ज्ञात कीजिए।
 
 ---
 
 ### 🔘 Options
-* **A)** $4$
-* **B)** $5$
-* **C)** $6$
-* **D)** $7$
-* **E)** $8$
+* **A)** $4$ days
+* **B)** $5$ days
+* **C)** $6$ days
+* **D)** $7$ days
+* **E)** $8$ days
 
-**Correct Answer:** **C) 6**
+**Correct Answer:** **C) 6 days**
 
 ---
 
@@ -574,28 +613,28 @@ Rohan and Mohit together can complete a piece of work in $3x$ days. Mohit alone 
 
 ### 📝 Problem Statement (Bilingual)
 **English:**  
-Rohan and Mohan alone can complete a work in $18$ days and $36$ days respectively. Suresh completes $50\%$ of the work in $3x$ days, and the remaining $50\%$ of the work is completed by Rohan and Mohan together in $x$ days. In how many days can Rohan and Suresh together complete the work?
+Rohan and Mohit alone can complete a piece of work in $18$ days and $36$ days, respectively. $50\%$ of the work is completed by Suresh in $3x$ days, while the remaining work is completed by Rohan and Mohit working together in $x$ days. In how many days can Rohan and Suresh complete the entire work together?
 
 **हिन्दी:**  
-रोहन और मोहन अकेले एक काम को क्रमशः $18$ दिनों और $36$ दिनों में पूरा कर सकते हैं। सुरेश $50\%$ काम $3x$ दिनों में पूरा करता है, और शेष $50\%$ काम रोहन और मोहन मिलकर $x$ दिनों में पूरा करते हैं। रोहन और सुरेश मिलकर उस काम को कितने दिनों में पूरा कर सकते हैं?
+रोहन और मोहित अकेले किसी काम को क्रमशः $18$ और $36$ दिनों में पूरा कर सकते हैं। सुरेश $3x$ दिनों में काम का $50\%$ हिस्सा पूरा करता है, जबकि बचा हुआ काम रोहन और मोहित मिलकर $x$ दिनों में पूरा करते हैं। रोहन और सुरेश मिलकर पूरा काम कितने दिनों में कर सकते हैं?
 
 ---
 
 ### 🔘 Options
-* **A)** $10$ days
-* **B)** $12$ days
-* **C)** $15$ days
-* **D)** $18$ days
-* **E)** $20$ days
+* **A)** $x$ days
+* **B)** $2x$ days
+* **C)** $3x$ days
+* **D)** $4x$ days
+* **E)** None of these
 
-**Correct Answer:** **B) 12 days** (also written as $2x$ days)
+**Correct Answer:** **B) 2x days** ($= 12$ days, since $x = 6$ days)
 
 ---
 
 ### 🎯 Kaushik Sir's Approach (LCM & Unit Split)
 1. **Total Work = $\text{LCM}(18, 36) = 36$ units:**
    * $E_R = \frac{36}{18} = 2 \text{ u/day}$
-   * $E_M = \frac{36}{36} = 1 \text{ u/day}$
+   * $E_{\text{Mohit}} = \frac{36}{36} = 1 \text{ u/day}$
    * $E_{R+M} = 2 + 1 = 3 \text{ u/day}$
 2. **Analyze the 50% split:**
    * $50\%$ of Work $= 18$ units.
@@ -695,12 +734,12 @@ Ravi alone takes $x$ days to complete a piece of work, while Mohan alone takes $
 
 ### 🔘 Options
 * **A)** $1$ day
-* **B)** $1.25$ days
-* **C)** $1.5$ days
-* **D)** $2$ days
-* **E)** $2.5$ days
+* **B)** $1\frac{1}{4}$ days
+* **C)** $1\frac{1}{2}$ days
+* **D)** $1\frac{3}{4}$ days
+* **E)** $2$ days
 
-**Correct Answer:** **C) 1.5 days**
+**Correct Answer:** **C) $1\frac{1}{2}$ days** ($= 1.5$ days)
 
 ---
 
@@ -1021,13 +1060,13 @@ Rohan alone can complete a piece of work in $28$ days. Rohan and Mohan together 
 ---
 
 ### 🔘 Options
-* **A)** $5\frac{2}{5}$ days
-* **B)** $6\frac{2}{7}$ days
-* **C)** $6\frac{6}{15}$ days
+* **A)** $5\frac{1}{3}$ days
+* **B)** $6\frac{4}{7}$ days
+* **C)** $6\frac{8}{15}$ days
 * **D)** $7\frac{1}{3}$ days
 * **E)** $7\frac{1}{2}$ days
 
-**Correct Answer:** **C) $6\frac{6}{15}$ days** ($= \frac{96}{15} = 6.4$ days)
+**Correct Answer:** **C) $6\frac{8}{15}$ days** ($= \frac{98}{15}$ days)
 
 ---
 
@@ -1049,7 +1088,6 @@ Rohan alone can complete a piece of work in $28$ days. Rohan and Mohan together 
    $$E_{\text{all}} = E_{R+M} + E_S = 12 + \frac{66}{7} = \frac{84 + 66}{7} = \frac{150}{7} \text{ u/day}$$
 5. **Time taken together:**
    $$T_{\text{all}} = \frac{\text{Total Work}}{E_{\text{all}}} = \frac{140}{150/7} = \frac{140 \times 7}{150} = \frac{980}{150} = \frac{98}{15} = \mathbf{6\frac{8}{15} \text{ days}}$$
-   *(Note: Printed on slide as option C: $6\frac{6}{15}$ days / $\frac{98}{15}$ circled by Sir).*
 
 ---
 
@@ -1612,34 +1650,35 @@ A certain number of men can complete a piece of work in $60$ days. They start wo
 ---
 
 ### 🎯 Kaushik Sir's Approach (Man-Days Equivalence Method)
-1. **Let initial number of men be $x$:**
-   $$\text{Total Work} = x \times 60 \text{ man-days}$$
-2. **Timeline breakdown:**
-   * First $24$ days: $x$ men worked $\implies 24x$ work.
-   * Remaining time: Total time is $72$ days $\implies$ Remaining days $= 72 - 24 = 48$ days.
-   * Number of men remaining $= (x - 8)$.
-   * Work done in remaining days $= 48 \times (x - 8)$.
-3. **Equate Total Work:**
-   $$60x = 24x + 48(x - 8)$$
-   $$60x = 24x + 48x - 384$$
-   $$60x = 72x - 384 \implies 12x = 384 \implies x = \frac{384}{12} = 32 \text{ men}$$
-4. **Calculate Total Work & Time for 24 Men:**
-   $$\text{Total Work} = 32 \times 60 = 1920 \text{ man-days}$$
-   $$\text{Time for 24 Men} = \frac{1920}{24} = \frac{32 \times 60}{24} = 32 \times 2.5 = 4 \times 10 = \mathbf{40 \text{ days}}$$
+1. **Kaushik Sir's Exact Equation from Slide 47:**
+   * Planned Total Work: $x$ men $\times 60$ days $= 60x$ man-days.
+   * First phase: $x$ men worked for $24$ days $= 24x$ work.
+   * Second phase: $(x - 8)$ men completed the remaining work in $72$ days $= 72(x - 8)$ work.
+   $$\mathbf{x \times 60 = x \times 24 + (x - 8) \times 72}$$
+2. **Dividing throughout by $12$ (Sir's fast cancellation trick):**
+   $$5x = 2x + 6(x - 8)$$
+   $$5x = 2x + 6x - 48$$
+   $$5x = 8x - 48 \implies 3x = 48 \implies \mathbf{x = 16 \text{ men}}$$
+3. **Calculate Total Work & Required Time for 24 Men:**
+   $$\text{Total Work} = x \times 60 = 16 \times 60 = 960 \text{ man-days}$$
+   $$\text{Time for 24 Men} = \frac{16 \times 60}{24} = \frac{960}{24} = \mathbf{40 \text{ days}}$$
 
 ---
 
 ### 📘 Basic / Algebraic Approach (Balance Remaining Work)
-* The remaining work of $x$ men for $(60 - 24) = 36$ days was done by $(x - 8)$ men in $48$ days:
-  $$x \times 36 = (x - 8) \times 48$$
-  $$3x = 4(x - 8) = 4x - 32 \implies x = 32 \text{ men}$$
-* $M_1 D_1 = M_2 D_2 \implies 32 \times 60 = 24 \times D_2 \implies D_2 = \frac{32 \times 60}{24} = \mathbf{40 \text{ days}}$.
+* The work remaining after the initial $24$ days equals the scheduled work of $x$ men for $(60 - 24) = 36$ days.
+* This remaining work was executed by $(x - 8)$ men in $72$ days:
+  $$(60 - 24) \times x = (x - 8) \times 72$$
+  $$36x = 72(x - 8)$$
+  $$x = 2(x - 8) = 2x - 16 \implies \mathbf{x = 16 \text{ men}}$$
+* Time required by $24$ men to complete the same work:
+  $$T = \frac{\text{Total Work}}{24} = \frac{16 \times 60}{24} = \mathbf{40 \text{ days}}$$
 
 ---
 
 ### 💡 Key Takeaways & Revision Tips
-* **Remaining Work Equivalence Trick:** Instead of expanding the full equation, simply equate remaining work:
-  $$x \times (60 - 24) = (x - 8) \times 48 \implies 36x = 48(x - 8) \implies 3x = 4x - 32 \implies x = 32$$
+* **Exam Phrasing Tip:** In Indian banking exams, the phrase *"The remaining men complete the work in a total of 72 days"* is frequently meant as the remaining men completing their part in $72$ days, i.e., $(x - 8) \times 72$.
+* **Instant Cancellation:** Dividing $60x = 24x + 72(x-8)$ by $12$ yields $5x = 2x + 6(x-8)$, giving $x = 16$ and $40$ days in under $15$ seconds!
 
 ---
 
@@ -1833,31 +1872,37 @@ $(x + 5)$ महिलाएँ, रोज़ $8$ घंटे काम कर�
 * **D)** $20$ women
 * **E)** $21$ women
 
-**Correct Answer:** **E) 21 women**
+**Correct Answer:** **C) 16 women**
 
 ---
 
 ### 🎯 Kaushik Sir's Approach (MDH Work Ratio Equivalence)
 1. **Identify Work Fractions:**
-   * First group did $75\% = \frac{3}{4}$ work.
-   * Second group did Remaining $25\% = \frac{1}{4}$ work.
-   * Work Ratio $= 3 : 1$.
+   * Group 1 completed $75\% = \frac{3}{4}$ of the work.
+   * Group 2 completed remaining $25\% = \frac{1}{4}$ of the work.
+   * Work Ratio $W_1 : W_2 = 3 : 1$.
 2. **Apply MDH Work Formula:**
    $$\frac{M_1 \times D_1 \times H_1}{W_1} = \frac{M_2 \times D_2 \times H_2}{W_2}$$
    $$\frac{(x + 5) \times 18 \times 8}{3} = \frac{(x - 3) \times 24 \times 4}{1}$$
-3. **Simplify the fractions:**
+3. **Cancel & Simplify:**
    $$\frac{(x + 5) \times 144}{3} = (x - 3) \times 96$$
-   $$(x + 5) \times 48 = (x - 3) \times 96$$
-   $$(x + 5) = 2(x - 3)$$
-   $$x + 5 = 2x - 6 \implies x = 11$$
-   *(Let's verify: Slide 51: $(x+5) \times 18 \times 8 / 3 = (x-3) \times 24 \times 4 / 1 \implies (x+5) \times 48 = 96(x-3) \implies x+5 = 2x-6 \implies x = 11$. Then first group $= x + 5 = 11 + 5 = 16$ or $x=16 \implies 21$. On slide 51: $11 = x \implies 11 + 5 = 16$ with option C circled or $x=16 \implies 21$ circled. Let's check slide 51 text: $(x+5) \times 18 \times 8 / 75 = (x-3) \times 24 \times 4 / 25 \implies (x+5) \times 48 = 96(x-3) \implies x = 11 \implies x+5 = 16$ women (Option C) or 21 (Option E). Marking clearly: $x=16 \implies 21$ or $x=11 \implies 16$).*
+   $$48(x + 5) = 96(x - 3)$$
+   Divide both sides by $48$:
+   $$x + 5 = 2(x - 3)$$
+   $$x + 5 = 2x - 6 \implies \mathbf{x = 11}$$
+4. **Find the number of women who completed $75\%$ of the work:**
+   $$\mathbf{\text{Group 1 Women}} = x + 5 = 11 + 5 = \mathbf{16 \text{ women}}$$
 
 ---
 
 ### 📘 Basic / Algebraic Approach
-$$\frac{(x + 5) \times 18 \times 8}{3} = \frac{(x - 3) \times 24 \times 4}{1}$$
-$$48(x + 5) = 96(x - 3) \implies x + 5 = 2(x - 3) \implies x + 5 = 2x - 6 \implies x = 11$$
-* Number of women in the first group $= x + 5 = 11 + 5 = \mathbf{16 \text{ women}}$ (or $21$ if $x=16$).
+* Group 1 total woman-hours $= (x + 5) \times 18 \times 8 = 144(x + 5)$ for $75\%$ of the work.
+* Group 2 total woman-hours $= (x - 3) \times 24 \times 4 = 96(x - 3)$ for $25\%$ of the work.
+* Equating work per unit percentage:
+   $$\frac{144(x + 5)}{75} = \frac{96(x - 3)}{25}$$
+   $$\frac{144(x + 5)}{3} = \frac{96(x - 3)}{1} \implies 48(x + 5) = 96(x - 3)$$
+   $$x + 5 = 2(x - 3) \implies x + 5 = 2x - 6 \implies \mathbf{x = 11}$$
+* Women who completed $75\%$ work $= x + 5 = 11 + 5 = \mathbf{16 \text{ women}}$.
 
 ---
 
