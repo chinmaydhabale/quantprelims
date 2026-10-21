@@ -195,7 +195,7 @@ $$x M = y W = z C \implies M : W : C = \frac{1}{x} : \frac{1}{y} : \frac{1}{z} =
 | :---: | :---: | :--- | :---: | :--- |
 | [**Q01**](#question-01) | Slide 13 | Work Fraction & Time Ratios | **D) 35 days** | $T_{\text{Ravi}} = 6 \times \frac{7}{3} = 14 \text{ d}$; $\text{TW} = \text{LCM}(14, 21) = 42$; Mohan $= 1 \text{ u/d} \implies T_S = 42 \times \frac{5}{6} = 35 \text{ d}$ |
 | [**Q02**](#question-02) | Slide 14 | Standard Leaving Case | **C) 10 days** | $\text{TW} = 45$; $E_R = 3, E_S = 2$; Work in $5 \text{ d} = 25$; Remaining $= 20 \implies T_{\text{Sohan}} = \frac{20}{2} = 10 \text{ d}$ |
-| [**Q03**](#question-03) | Slide 15 | Left Before Completion | **C) 19 days** | Reverse / Add-Back Method: $\text{TW} = 120$; Add Suresh $3 \text{ d} (+9) \implies \text{Total Time} = \frac{129}{5+3} = 19 \text{ d}$ |
+| [**Q03**](#question-03) | Slide 15 | Joining Before Completion (SBI Clerk) | **C) 19 days** | $\text{TW} = 180$; Karan $6 \text{ d} = 30 \implies \text{Mohit} = 150 \implies \text{Total} = \frac{150}{6} = 25 \text{ d} \implies 25 - 6 = 19 \text{ d}$ |
 | [**Q04**](#question-04) | Slide 16 | Multi-Person Sequential Work | **D) 30 days** | $\text{TW} = 60$; $E_R=5, E_M=4, E_S=3$; $(5 \times 3) + (4 \times 5) + 3t = 60 \implies t = 8.33 \implies \text{Total} = 30 \text{ d}$ |
 | [**Q05**](#question-05) | Slide 17 | Variable Time ($x$-Based) | **C) 16** | Combined Rate: $\frac{12}{2x} + \frac{24}{4x} = \frac{12}{x} = \frac{3}{4} \implies 3x = 48 \implies x = 16$ |
 | [**Q06**](#question-06) | Slide 18 | Mid-Way Efficiency Boost (+25%) | **C) 6 days** | $\text{TW} = 60$; $E_{\text{all}} = 6$; $E'_R = 3 \times 1.25 = \frac{15}{4}$; $6D + \frac{15}{4}\left(\frac{62}{5} - D\right) = 60 \implies D = 6 \text{ d}$ |
@@ -240,11 +240,11 @@ Ravi completes $\frac{3}{7}$ of a piece of work in $6$ days. Ravi and Mohan toge
 ---
 
 ### 🔘 Options
-* **A)** $25$ days
-* **B)** $28$ days
-* **C)** $30$ days
+* **A)** $28$ days
+* **B)** $30$ days
+* **C)** $32$ days
 * **D)** $35$ days
-* **E)** $42$ days
+* **E)** $36$ days
 
 **Correct Answer:** **D) 35 days**
 
@@ -288,18 +288,18 @@ Ravi completes $\frac{3}{7}$ of a piece of work in $6$ days. Ravi and Mohan toge
 
 ### 📝 Problem Statement (Bilingual)
 **English:**  
-Rohan alone can complete a work in $15$ days, while Sohan alone can complete the same work in $22.5$ ($\frac{45}{2}$) days. Both worked together for $5$ days, and then Rohan left the work. Find in how many days Sohan alone will complete the remaining work.
+Rohan and Sohan can complete a piece of work in $15$ days and $22\frac{1}{2}$ days respectively. They start working together, but after $5$ days, Rohan leaves the work. In how many more days will Sohan complete the remaining work?
 
 **हिन्दी:**  
-रोहन अकेले एक काम को $15$ दिनों में पूरा कर सकता है, जबकि सोहन अकेले उसी काम को $22.5$ दिनों में पूरा कर सकता है। दोनों ने मिलकर $5$ दिनों तक काम किया, और फिर रोहन काम छोड़ देता है। सोहन अकेले बचे हुए काम को कितने दिनों में पूरा करेगा?
+रोहन और सोहन किसी काम को क्रमशः $15$ दिन और $22\frac{1}{2}$ दिन में पूरा कर सकते हैं। वे एक साथ काम करना शुरू करते हैं, लेकिन $5$ दिन बाद रोहन काम छोड़ देता है। सोहन बाकी काम कितने और दिनों में पूरा करेगा?
 
 ---
 
 ### 🔘 Options
-* **A)** $5$ days
-* **B)** $7.5$ days
+* **A)** $8$ days
+* **B)** $9$ days
 * **C)** $10$ days
-* **D)** $12.5$ days
+* **D)** $12$ days
 * **E)** $15$ days
 
 **Correct Answer:** **C) 10 days**
@@ -336,56 +336,63 @@ Rohan alone can complete a work in $15$ days, while Sohan alone can complete the
 ---
 
 ## <a id="question-03"></a>📌 Question 03
-**Source:** Slide 15
+**Source:** Slide 15 (SBI Clerk PYQ)
 
 ### 📝 Problem Statement (Bilingual)
 **English:**  
-Karan and Mohit alone can complete a piece of work in $36$ days and $30$ days respectively. Mohit started the work alone and Karan joined him later. If Karan left $6$ days before the completion of the work and the entire work was completed in $25$ days, find after how many days Karan joined Mohit.
+Karan and Mohit can complete a piece of work in $36$ days and $30$ days respectively. Mohit starts the work alone, and Karan joins him $6$ days before the completion of the work. After how many days Karan joined the work?
 
 **हिन्दी:**  
-करण और मोहित अकेले एक काम को क्रमशः $36$ दिनों और $30$ दिनों में पूरा कर सकते हैं। मोहित ने अकेले काम शुरू किया और करण बाद में उसके साथ जुड़ा। यदि करण काम पूरा होने से $6$ दिन पहले काम छोड़ देता है और पूरा काम $25$ दिनों में पूरा होता है, तो करण कितने दिनों के बाद मोहित के साथ जुड़ा?
+करण और मोहित किसी काम को क्रमशः $36$ और $30$ दिनों में पूरा कर सकते हैं। मोहित अकेले काम शुरू करता है और काम पूरा होने से $6$ दिन पहले करण उसके साथ जुड़ जाता है। करण कितने दिनों बाद काम में शामिल हुआ?
 
 ---
 
 ### 🔘 Options
-* **A)** $12$ days
-* **B)** $15$ days
+* **A)** $25$ days
+* **B)** $21$ days
 * **C)** $19$ days
-* **D)** $20$ days
-* **E)** $21$ days
+* **D)** $12$ days
+* **E)** $6$ days
 
 **Correct Answer:** **C) 19 days**
 
 ---
 
-### 🎯 Kaushik Sir's Approach (Tracking Active Worker & Residuals)
-1. **Total Work = $\text{LCM}(36, 30) = 180$ units:**
-   * $E_K = \frac{180}{36} = 5 \text{ u/day}$
-   * $E_M = \frac{180}{30} = 6 \text{ u/day}$
-2. **Analyze Mohit's presence:**
-   * Mohit was present for the **entire $25$ days** without taking any break.
-   * Total work done by Mohit $= 25 \text{ days} \times 6 \text{ u/day} = 150 \text{ units}$.
-3. **Calculate Karan's work & active duration:**
-   * Work done by Karan $= 180 - 150 = 30 \text{ units}$.
-   * Number of days Karan worked $= \frac{30}{E_K} = \frac{30}{5} = 6 \text{ days}$.
-4. **Determine when Karan joined:**
-   * Karan worked for $6$ days and left $6$ days before day $25$ (i.e., Karan left on day $25 - 6 = 19$).
-   * Since Karan worked for $6$ days and left on day $19$, he must have joined on day:
-     $$\text{Joining Day} = 19 - 6 = 13 \implies \text{Joined after } 19 - 6 = 13 \text{ days (or joined after } 25 - 6 = 19 \text{ days from remaining perspective)}$$
-   * More straightforward: Karan worked between Day $(25 - 6 - 6) = \text{Day } 13$ to $\text{Day } 19$. Thus Karan joined **after $13$ days** (or from the question slide: Mohit worked alone initially, Karan joined, then Karan left $6$ days before completion $\implies$ Karan worked for 6 days total $\implies$ Mohit alone did $150$ u, Karan did $30$ u $\implies$ Karan joined after $25 - 6 = 19$ days from the options context where Karan joined for the remaining middle stretch).
-   * As marked on Sir's slide: Karan joined after **$19$ days** (Ans: C).
+### 🎯 Kaushik Sir's Approach (Tracking Known Working Duration)
+1. **Assume Total Work = $\text{LCM}(36, 30) = 180$ units:**
+   * Karan's Efficiency: $E_K = \frac{180}{36} = 5 \text{ u/day}$
+   * Mohit's Efficiency: $E_M = \frac{180}{30} = 6 \text{ u/day}$
+2. **Analyze Karan's contribution:**
+   * Karan joined $6$ days before completion and worked till the end $\implies$ Karan worked for **exactly $6$ days**.
+   * Work done by Karan $= E_K \times 6 = 5 \times 6 = 30 \text{ units}$.
+3. **Analyze Mohit's contribution:**
+   * Mohit was present from Day 1 to the very last day (entire duration).
+   * Work completed by Mohit $= \text{Total Work} - \text{Karan's Work} = 180 - 30 = 150 \text{ units}$.
+4. **Calculate total project duration & joining time:**
+   * Total duration of work $= \frac{\text{Mohit's Work}}{E_M} = \frac{150}{6} = \mathbf{25 \text{ days}}$.
+   * Karan joined $6$ days before completion:
+     $$\mathbf{\text{Days after which Karan joined}} = 25 - 6 = \mathbf{19 \text{ days}}$$
+     *(Option C is marked on Slide 15).*
 
 ---
 
-### 📘 Basic / Algebraic Approach
-* Let Karan work for $k$ days.
-* Total Work $= E_M \times 25 + E_K \times k = 180 \implies 6(25) + 5k = 180 \implies 5k = 30 \implies k = 6 \text{ days}$.
-* Since work completed in $25$ days and Karan left $6$ days before completion, the time elapsed before Karan joined $= 25 - 6 = 19$ days.
+### 📘 Basic / Algebraic Approach (Phase Breakdown)
+* **Method A (Timeline Equation):**
+  * Let total days to finish the work be $T$.
+  * Mohit worked for all $T$ days, while Karan worked for $6$ days:
+    $$E_M \times T + E_K \times 6 = 180$$
+    $$6T + 5(6) = 180 \implies 6T + 30 = 180 \implies 6T = 150 \implies T = 25 \text{ days}$$
+  * Karan joined after $= T - 6 = 25 - 6 = \mathbf{19 \text{ days}}$.
+* **Method B (Two Phases: Alone vs Together):**
+  * Let Mohit work alone for $x$ days, then both work together for the last $6$ days:
+    $$E_M \times x + (E_M + E_K) \times 6 = 180$$
+    $$6x + (6 + 5) \times 6 = 180$$
+    $$6x + 66 = 180 \implies 6x = 114 \implies x = \frac{114}{6} = \mathbf{19 \text{ days}}$$
 
 ---
 
 ### 💡 Key Takeaways & Revision Tips
-* Whenever one person is present from the first day to the last day, calculate that person's total work immediately to eliminate one variable!
+* **The "Joined $n$ Days Before End" Pattern:** The worker who joins $n$ days before completion works for *exactly* $n$ days! Multiply their efficiency by $n$, subtract from Total Work, and divide by the primary worker's efficiency to get the total time in one quick mental step.
 
 ---
 
@@ -394,17 +401,17 @@ Karan and Mohit alone can complete a piece of work in $36$ days and $30$ days re
 
 ### 📝 Problem Statement (Bilingual)
 **English:**  
-Rohan and Sohan can complete a piece of work in $12$ days and $24$ days respectively. Rohan worked for $4$ days and left, then Sohan worked for $8$ days and left. The remaining work was completed by Mohit in $10$ days. In how many days can Mohit alone complete the entire work?
+Rohan and Sohan can complete a piece of work in $12$ days and $24$ days respectively. They start working together, but Rohan leaves after $4$ days. Sohan continues working alone for the next $4$ days and then leaves. The remaining work is completed by Mohit in $10$ days. In how many days can Mohit complete the entire work alone?
 
 **हिन्दी:**  
-रोहन और सोहन किसी काम को क्रमशः $12$ दिनों और $24$ दिनों में पूरा कर सकते हैं। रोहन ने $4$ दिनों तक काम किया और छोड़ दिया, फिर सोहन ने $8$ दिनों तक काम किया और छोड़ दिया। शेष काम मोहित द्वारा $10$ दिनों में पूरा किया गया। मोहित अकेले पूरे काम को कितने दिनों में पूरा कर सकता है?
+रोहन और सोहन किसी काम को क्रमशः $12$ और $24$ दिनों में पूरा कर सकते हैं। वे एक साथ काम करना शुरू करते हैं, लेकिन रोहन $4$ दिनों के बाद काम छोड़ देता है। सोहन अगले $4$ दिनों तक अकेले काम करता रहता है और फिर चला जाता है। बचा हुआ काम मोहित $10$ दिनों में पूरा करता है। मोहित अकेले पूरा काम कितने दिनों में कर सकता है?
 
 ---
 
 ### 🔘 Options
-* **A)** $18$ days
-* **B)** $20$ days
-* **C)** $24$ days
+* **A)** $20$ days
+* **B)** $24$ days
+* **C)** $27$ days
 * **D)** $30$ days
 * **E)** $36$ days
 
